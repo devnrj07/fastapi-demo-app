@@ -7,3 +7,4 @@ dependencies:
     - pip:
         - uvicorn>=^0.11.3
         - fastapi>=^0.58.1
+        - cryptography==3.1.1
